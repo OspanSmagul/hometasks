@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<title>table</title>
+<center >
+<style>
+table,th,td{
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+  <tr style="background-color:red">
+  <th>Firstname</th>
+  <th>Lastname</th>
+  <th>Age</th>
+  </tr>
+  <tr>
+  <td>Ospan</td>
+  <td>Smagul</td>
+  <td>19</td>
+  </tr>
+  <tr>
+  <td>Dastan</td>
+  <td>Smagulov</td>
+  <td>14</td>
+  </tr>
+  <tr>
+  <td>Dos</td>
+  <td>Abay</td>
+  <td>20</td>
+  </tr>
+  <tr>
+  <td>Marat</td>
+  <td>Abylmansur</td>
+  <td>80</td>
+  </tr>
+</center>
+<body>
+</html>

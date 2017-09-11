@@ -1,0 +1,11 @@
+img{
+  width:420px;
+  height:200px;
+}
+table,th,td{
+  border: 3px solid white;
+  border-collapse: collapse;
+}
+div{
+  background-color: lightgrey;
+}

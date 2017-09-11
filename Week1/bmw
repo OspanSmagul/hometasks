@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bmw</title>
+<link rel="stylesheet" href ="styles1">
+</head>
+<table class="t1" style="width:100%">
+  <tr>
+    <th colspan="3" rowspan="3"></th>
+  </tr>
+  <tr><td></td></tr>
+  <tr>
+    <td><img src="b1.jpg" alt="bmw" ></td>
+    <td><img src="b2.jpg" alt="bmw" ></td>
+    <td><img src="b3.jpg" alt="bmw" ></td>
+  </tr>
+  <tr>
+    <td><img src="b4.jpg" alt="bmw" ></td>
+    <td><img src="b5.jpg" alt="bmw" ></td>
+    <td><img src="b6.jpg" alt="bmw" ></td>
+  </tr>
+</table >
+</body>
+</html>

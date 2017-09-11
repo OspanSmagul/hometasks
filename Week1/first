@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+</head>
+<body>
+  <center>
+  <p>Login</p>
+  <input type="charset">
+  <p>Password</p>
+  <input type="password">
+  <p></p>
+  <button type="button">click me</button>
+</center>
+</body>
+</html>
